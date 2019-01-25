@@ -1,0 +1,16 @@
+{
+  "name": "egitbrowser",
+  "version": "1.0.0",
+  "description": "git GUI tool written in electron",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "electron",
+    "gui"
+  ],
+  "author": "Stanislav Kunt",
+  "license": "ISC"
+}
